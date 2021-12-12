@@ -42,6 +42,3 @@ function showProfile(): Character {
 
 console.info(showProfile());
 ```
-
-
-<a href="https://app.daily.dev/Megazordy"><img src="https://api.daily.dev/devcards/76386ed777ee41f495098976a00ca088.png?r=pc8" width="320" alt="Willian Anselmo's Dev Card"/></a>
